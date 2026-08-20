@@ -1,5 +1,12 @@
 # FeedNoodle
 
+## Current visual
+
+![Current visual status](docs/status/current.png)
+
+> Status evidence only: this repository does not yet contain a verified runnable screen.
+
+
 FeedNoodle is a spatial multi-feed browser for orchestrating many simultaneous information streams—especially AI conversations, web/RSS feeds, media, search results, workspace events and agent outputs—inside fluid, transformable spatial layouts.
 
 ## Product thesis
