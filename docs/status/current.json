@@ -1,0 +1,8 @@
+{
+  "kind": "no-runnable-visual",
+  "project": "FeedNoodle",
+  "stage": "PROTOTYPE",
+  "next_acceptance_gate": "Recover the legacy UI, then ship Columns → Revolver → Noodle",
+  "runtime_verified": false,
+  "accent": "#8b5cf6"
+}
